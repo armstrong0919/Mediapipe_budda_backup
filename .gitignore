@@ -1,0 +1,7 @@
+Library/
+build/
+Temp/
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+Assets/.DS_Store
+.DS_Store
